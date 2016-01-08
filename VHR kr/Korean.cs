@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Vayne Hunter Reborn for Korean Asuna x OGN
+    Be a Spacebar PRO
+        Be a Challenger
+            Defeat Faker
+                Win the LOL World Championship
+                    Done~! That's what i want it ☆
+*/
 namespace VayneHunter_Reborn.External.Translation.Languages
 {
     class Korean : IVHRLanguage
